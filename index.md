@@ -19,7 +19,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
                     </div>
                     <!-- End .project-image -->
                     <div class="proyect 04L-info">
-                        <h3>Segunda ilustración</h3>
                         <p>
                              Por muchos otros feedeos y roturas de encufes. BOBOOOOOOO!!!!
                         </p>
