@@ -15,6 +15,5 @@ layout: default
                              Por muchos otros feedeos y roturas de encufes. BOBOOOOOOO!!!!
                         </p>
 			
-                    </div>
-                    <!-- End .project-info -->
+                 
                
