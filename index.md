@@ -2,15 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Anormal
 
 <div class="proyect 04L">
                     <div class="proyect 04L-image">
@@ -25,5 +17,4 @@ There should be whitespace between paragraphs. We recommend including a README, 
 			
                     </div>
                     <!-- End .project-info -->
-                </div>
-                <!-- End .project -->    
+               
