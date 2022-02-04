@@ -1,10 +1,18 @@
+---
+layout: default
+---
 
-</head>
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<body>
- 
-		    
-		<div class="proyect 04L">
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+<div class="proyect 04L">
                     <div class="proyect 04L-image">
                         <img src="images/proyect 04L.jpg" 
 			     width="1300"  />
@@ -20,9 +28,3 @@
                     <!-- End .project-info -->
                 </div>
                 <!-- End .project -->    
-		
-	     
-
-</body>
-
-</html>
